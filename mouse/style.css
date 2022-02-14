@@ -1,0 +1,16 @@
+html {
+    cursor: none;
+}
+
+body {
+    background: rgb(17, 17, 17);
+}
+
+#circulo {
+    width: 16px;
+    height: 16px;
+    background: rgb(132, 0, 255);
+    border-radius: 50%;
+    position: absolute;
+
+}

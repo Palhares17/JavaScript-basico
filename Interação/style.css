@@ -1,0 +1,15 @@
+.texto {
+    display: none;
+}
+
+.btn {
+    display: none;
+}
+
+.texto.ativo {
+    display: block;
+}
+
+.btn.ativo {
+    display: block;
+}
